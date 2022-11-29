@@ -1,0 +1,114 @@
+.cart{
+    background-color: white;
+    margin: auto;
+    width: 700px;
+    display: flex;
+    padding: 20px;
+    align-items:center;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.product{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 5px;
+}
+.title{
+    width:300px;
+}
+
+.action{
+    border-radius: 5px;
+    margin: auto;
+    margin-right: 5px;
+}
+
+.plus{
+    background-color: royalblue;
+}
+
+.minus{
+    background-color:yellow;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+.price{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    padding: 5px;
+    font-size: 25px;
+    background-color:lightpink;
+}
+
+.remove{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    background-color: crimson;
+    color:white
+}
+
+.total{
+    background-color: white;
+    margin: auto;
+    display: flex;
+    padding: 20px;
+    align-items:center;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    width: fit-content;
+}
+
+.value{
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 5px;
+    background-color:midnightblue;
+    color:white;
+    margin-left: 10px;
+}
+
+.any{
+    margin:auto;
+}
+.check{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:green;
+    color:white;
+    margin-left: 10px;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+.gp{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 7px;
+    margin-left: 10px;
+}
+
+.gp:hover{
+    background-color: lightblue;
+}
+
+.cross{
+    border: none;
+    background-color: white;
+    position: relative;
+    left:20px;
+}

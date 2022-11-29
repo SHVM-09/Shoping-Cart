@@ -1,0 +1,9 @@
+
+.naviB{
+    font-weight: bold;
+    font-family:monospace;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px gray;
+    margin: auto;
+    width: 80%;
+}

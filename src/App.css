@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.Header{
+  text-align: center;
+  margin:0;
+  margin-bottom: 10px;
+  font-family: monospace;
+  font-size: 30px;
+  text-shadow: 1px 1px 1px black;
+  color: rgb(0, 0, 0);
+  
+}

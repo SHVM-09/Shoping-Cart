@@ -1,0 +1,48 @@
+.cont {
+  background-color: white;
+  border-radius: 20px;
+  height: fit-content;
+  padding: 5px;
+  margin: auto;
+  border: 5px solid black;
+  width: fit-content;
+  text-align: justify;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.add {
+  margin: auto;
+  background-color: lightcyan;
+  width: fit-content;
+  padding: 30px;
+  margin-top: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.foot {
+  margin: auto;
+  background-color: lavender;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 20px;
+}
+.map {
+  margin: auto;
+}
+.hX {
+  text-align: center;
+}
+.about {
+  background-color: white;
+  border-radius: 20px;
+  height: fit-content;
+  padding: 20px;
+  margin: auto;
+  border: 5px solid black;
+  width: 710px;
+  text-align: justify;
+  font-size: 30px;
+  margin-top: 20px;
+}
